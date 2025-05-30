@@ -10,8 +10,8 @@ Here's what I currently do and know:
 - 🔧 Comfortable with **C Language** and **Embedded C**
 - 📖 Learning **Bare-Metal Programming** using STM32 boards  
 - 🛠️ Can read and understand **MCU Datasheets** and **Reference Manuals**
-- 💻 Using **STM32CubeIDE** for hands-on STM32 development
-- 🤖 I tinker with **ESP32**, **Arduino**, and other electronics whenever I can
+- 💻 Using **STM32CubeIDE** for programming
+- 🤖 I work with **ESP32**, **Arduino**, and other electronics whenever I can
 
 ## 🚀 My Projects
 
