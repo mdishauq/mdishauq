@@ -7,7 +7,7 @@ Thanks for dropping by — I’m really glad you’re here!
 I’m **Mohamed ishauq**, an Electronics and Communication Engineering student who loves building cool projects with microcontrollers and embedded systems.  
 Here's what I currently do and know:
 
-- 🔧 Comfortable with **C Language** and **Embedded C**
+- 🔧 Comfortable with **C Language** and **C++**
 - 📖 Learning **Bare-Metal Programming** using STM32 boards  
 - 🛠️ Can read and understand **MCU Datasheets** and **Reference Manuals**
 - 💻 Using **STM32CubeIDE** for programming
