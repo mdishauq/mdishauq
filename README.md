@@ -32,5 +32,4 @@ Feel free to explore my repos or reach out if you’re into embedded systems too
 _Thanks for visiting_ 💡
 
 
-![Visitor Count](https://profile-counter.glitch.me/mdishauq/count.svg)
-
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmdishauq&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
