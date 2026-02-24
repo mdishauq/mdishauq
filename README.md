@@ -84,9 +84,9 @@ I completed an **embedded systems internship at Revoh Innovations Pvt Ltd**, ear
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdishauq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mdishauq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdishauq&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdishauq&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
