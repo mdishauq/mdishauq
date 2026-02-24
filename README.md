@@ -1,7 +1,5 @@
 # 👋 Hey there, welcome to my GitHub!
 
-![Visitor Count](https://profile-counter.glitch.me/mdishauq/count.svg)
-
 Thanks for dropping by — I’m really glad you’re here!
 
 ## 🙋‍♂️ About Me
@@ -32,3 +30,7 @@ Here are a few things I'm working on or have built:
 Feel free to explore my repos or reach out if you’re into embedded systems too!
 
 _Thanks for visiting_ 💡
+
+
+![Visitor Count](https://profile-counter.glitch.me/mdishauq/count.svg)
+
