@@ -1,16 +1,12 @@
 <div align="center">
 
-<!-- Visitor Counter -->
-<img src="https://visitcount.itsvg.in/api?id=mdishauq&label=Profile%20Views&color=1&icon=2&pretty=true" />
+<!-- Visitor Counter (most reliable service) -->
+<img src="https://komarev.com/ghpvc/?username=mdishauq&label=Profile+Views&color=1a1a2e&style=for-the-badge" alt="Profile Views" />
 
 <br/><br/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=600&size=28&pause=1000&color=1A1A2E&background=FAF9F6&center=true&vCenter=true&width=620&height=60&lines=Hey+there%2C+I'm+Mohamed+Ishauq+%F0%9F%91%8B;Embedded+Systems+Engineer;Firmware+%26+Bare-Metal+Developer;IoT+%26+ARM+Cortex-M+Programmer;C+%2F+C%2B%2B+Systems+Developer" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A2E&height=4&section=header" width="100%"/>
+<!-- Typing Animation - transparent background, works on both dark/light GitHub themes -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=600&size=26&pause=1000&color=A29BFE&center=true&vCenter=true&width=640&height=55&lines=Hey+there%2C+I'm+Mohamed+Ishauq+%F0%9F%91%8B;Embedded+Systems+Engineer;Firmware+%26+Bare-Metal+Developer;IoT+%26+ARM+Cortex-M+Programmer;C+%2F+C%2B%2B+Systems+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -29,9 +25,9 @@ I completed an **embedded systems internship at Revoh Innovations Pvt Ltd**, ear
 ## 🛠️ Skills & Tools
 
 ### 💬 Languages
-![C](https://img.shields.io/badge/C-Expert-1A1A2E?style=for-the-badge&logo=c&logoColor=FAF9F6)
-![C++](https://img.shields.io/badge/C++-Advanced-2C2C54?style=for-the-badge&logo=cplusplus&logoColor=FAF9F6)
-![Python](https://img.shields.io/badge/Python-Basic-474787?style=for-the-badge&logo=python&logoColor=FAF9F6)
+![C](https://img.shields.io/badge/C-Expert-1A1A2E?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Advanced-2C2C54?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Basic-474787?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔬 Microcontrollers & Boards
 ![STM32](https://img.shields.io/badge/STM32-Intermediate-1A1A2E?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
@@ -64,9 +60,9 @@ I completed an **embedded systems internship at Revoh Innovations Pvt Ltd**, ear
 |---|---|---|---|
 | **Multi-Mode RC Car** | Bluetooth-controlled car with autonomous obstacle avoidance & voice command modes. Arduino + L293D motor shield + HC-06 + Ultrasonic sensor. | `C` `Arduino IDE` `Bluetooth` | [GitHub](https://github.com/mdishauq) |
 | **STM32 Bare Metal Programming** | Pure register-level peripheral drivers on STM32 — no HAL, no CMSIS. Deep datasheet & reference manual driven development. | `C` `Keil µVision` `ST-Link` | [GitHub](https://github.com/mdishauq) |
-| **Absolute Bare Metal Series** | Structured learning series documenting the full journey of MCU programming from scratch. Every peripheral implemented from first principles. | `C` `STM32` `Keil` | [GitHub](https://github.com/mdishauq) |
-| **VERX – Mini Version Control System** | Lightweight VCS built from scratch in C++ implementing local repos, ZIP-based push, and an embedded HTTP server for remote storage. No Git dependencies. | `C++` `miniz` `cpp-httplib` `libcurl` | [GitHub](https://github.com/mdishauq) |
-| **AI Study Assistant** | Hybrid C++ & web application with a high-performance C++ backend for topic management, MCQ generation, progress tracking, and Google Gemini AI Q&A. Exposed via Node.js to a browser UI. | `C++11` `Gemini API` `Node.js` `Express` `Tailwind` | [GitHub](https://github.com/mdishauq) |
+| **Absolute Bare Metal Series** | Structured learning series documenting the full journey of MCU programming from scratch. Every peripheral built from first principles. | `C` `STM32` `Keil` | [GitHub](https://github.com/mdishauq) |
+| **VERX – Mini Version Control System** | Lightweight VCS built from scratch in C++ — local repos, ZIP-based push, embedded HTTP server for remote storage. Zero Git dependencies. | `C++` `miniz` `cpp-httplib` `libcurl` | [GitHub](https://github.com/mdishauq) |
+| **AI Study Assistant** | Hybrid C++ & web app with high-performance backend for MCQ generation, progress tracking, and Google Gemini AI Q&A. Exposed via Node.js to a browser UI. | `C++11` `Gemini API` `Node.js` `Express` `Tailwind` | [GitHub](https://github.com/mdishauq) |
 
 *(More projects always in the pipeline — watch this space! 👀)*
 
@@ -88,15 +84,15 @@ I completed an **embedded systems internship at Revoh Innovations Pvt Ltd**, ear
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdishauq&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&bg_color=FAF9F6&title_color=1A1A2E&text_color=2C2C54&icon_color=706FD3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdishauq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdishauq&layout=compact&theme=buefy&hide_border=true&bg_color=FAF9F6&title_color=1A1A2E&text_color=2C2C54"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdishauq&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdishauq&theme=soft-green&hide_border=true&background=FAF9F6&stroke=1A1A2E&ring=706FD3&fire=2C2C54&currStreakNum=1A1A2E&sideNums=2C2C54&currStreakLabel=1A1A2E&sideLabels=474787&dates=474787" />
+<img src="https://streak-stats.demolab.com?user=mdishauq&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -106,19 +102,15 @@ I completed an **embedded systems internship at Revoh Innovations Pvt Ltd**, ear
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FAF9F6?style=for-the-badge&logo=firefox&logoColor=1A1A2E&label=🌐)](https://mdishauq.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FAF9F6?style=for-the-badge&logo=linkedin&logoColor=1A1A2E)](https://www.linkedin.com/in/mohamed-ishauq-839705335)
-[![Gmail](https://img.shields.io/badge/Gmail-FAF9F6?style=for-the-badge&logo=gmail&logoColor=1A1A2E)](mailto:mdishauq619@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FAF9F6?style=for-the-badge&logo=github&logoColor=1A1A2E)](https://github.com/mdishauq)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1A1A2E?style=for-the-badge)](https://mdishauq.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2C2C54?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ishauq-839705335)
+[![Gmail](https://img.shields.io/badge/Gmail-474787?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdishauq619@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-706FD3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdishauq)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A2E&height=80&section=footer" width="100%"/>
-
 <sub>✦ Crafted with care by Mohamed Ishauq ✦ ECE Student | Embedded Systems Enthusiast ✦</sub>
-
 </div>
