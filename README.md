@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mdishauq&label=Profile%20Views&color=1a1a2e&style=for-the-badge" alt="mdishauq" />
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=28&pause=1000&color=A29BFE&center=true&vCenter=true&width=700&height=60&lines=Hey+there%2C+I'm+Mohamed+Ishauq+%F0%9F%91%8B;Embedded+Systems+Engineer;Firmware+%26+Bare-Metal+Developer;IoT+%26+ARM+Cortex-M+Programmer;C+%2F+C%2B%2B+Systems+Developer" alt="Typing SVG" />
 
 <h1>Mohamed Ishauq</h1>
@@ -12,6 +8,10 @@
 </div>
 
 ---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mdishauq&label=Profile%20Views&color=1a1a2e&style=for-the-badge" alt="mdishauq" />
+</p>
 
 <h2 align="left">🧑‍💻 About Me</h2>
 
@@ -34,7 +34,7 @@ Right now I'm actively working on my <strong>Absolute Bare Metal Series</strong>
 <br/>
 
 <table>
-<tr><td>🔭 <strong>Currently working on</strong></td><td>Absolute Bare Metal Series & Industrial-Doctor</td></tr>
+<tr><td>🔭 <strong>Currently working on</strong></td><td>Absolute Bare Metal Series & GPS Autonomous Car</td></tr>
 <tr><td>👥 <strong>Looking to collaborate on</strong></td><td>Embedded systems, firmware projects & IoT builds</td></tr>
 <tr><td>💛 <strong>Looking for help with</strong></td><td>RTOS concepts & Edge Computing</td></tr>
 <tr><td>🌱 <strong>Currently learning</strong></td><td>Bare-metal STM32, C++ systems programming & IoT protocols</td></tr>
@@ -123,42 +123,35 @@ Right now I'm actively working on my <strong>Absolute Bare Metal Series</strong>
 </tr>
 </thead>
 <tbody>
-</tr>
-<tr>
-<td><strong>Industrial-Doctor</strong></td>
-<td>A standalone handheld device to detect machine faults using sound alone.</td>
-<td><code>C++</code> <code>VScode</code> <code>EDGEIMPULSE</code><code>ESP32 S3 N16R8</code></td>
-<td><a href="https://github.com/mdishauq/INDUSTRIAL-DOCTOR">GitHub</a></td>
-</tr>
 <tr>
 <td><strong>Multi-Mode RC Car</strong></td>
 <td>Bluetooth-controlled car with autonomous obstacle avoidance & voice command modes. Arduino + L293D motor shield + HC-06 + Ultrasonic sensor.</td>
 <td><code>C</code> <code>Arduino IDE</code> <code>Bluetooth</code></td>
-<td><a href="https://mdishauq.github.io/portfolio/projects.html">GitHub</a></td>
+<td><a href="https://github.com/mdishauq">GitHub</a></td>
 </tr>
 <tr>
 <td><strong>STM32 Bare Metal Programming</strong></td>
 <td>Pure register-level peripheral drivers on STM32 — no HAL, no CMSIS. Deep datasheet & reference manual driven development.</td>
 <td><code>C</code> <code>Keil µVision</code> <code>ST-Link</code></td>
-<td><a href="https://mdishauq.github.io/portfolio/projects.html">GitHub</a></td>
+<td><a href="https://github.com/mdishauq">GitHub</a></td>
 </tr>
 <tr>
 <td><strong>Absolute Bare Metal Series</strong></td>
 <td>Structured learning series documenting MCU programming from scratch. Every peripheral built from absolute first principles with zero abstraction.</td>
 <td><code>C</code> <code>STM32</code> <code>Keil</code></td>
-<td><a href="https://mdishauq.github.io/portfolio/projects.html">GitHub</a></td>
+<td><a href="https://github.com/mdishauq">GitHub</a></td>
 </tr>
 <tr>
 <td><strong>VERX – Mini Version Control System</strong></td>
 <td>Lightweight VCS built from scratch in C++ — local repos, ZIP-based push, embedded HTTP server for remote storage. Zero Git dependencies.</td>
 <td><code>C++</code> <code>miniz</code> <code>cpp-httplib</code> <code>libcurl</code></td>
-<td><a href="https://mdishauq.github.io/portfolio/projects.html">GitHub</a></td>
+<td><a href="https://github.com/mdishauq">GitHub</a></td>
 </tr>
 <tr>
 <td><strong>AI Study Assistant</strong></td>
 <td>Hybrid C++ & web app with high-performance backend for MCQ generation, progress tracking, and Google Gemini AI Q&A. Exposed via Node.js to a browser UI.</td>
 <td><code>C++11</code> <code>Gemini API</code> <code>Node.js</code> <code>Express</code> <code>Tailwind</code></td>
-<td><a href="https://mdishauq.github.io/portfolio/projects.html">GitHub</a></td>
+<td><a href="https://github.com/mdishauq">GitHub</a></td>
 </tr>
 </tbody>
 </table>
@@ -185,12 +178,6 @@ Right now I'm actively working on my <strong>Absolute Bare Metal Series</strong>
 ---
 
 <h2 align="left">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdishauq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="mdishauq stats" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mdishauq&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mdishauq top langs" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mdishauq&theme=tokyonight&hide_border=true" alt="mdishauq streak" />
