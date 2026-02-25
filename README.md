@@ -1,4 +1,5 @@
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE5OTIxNDAsIm5iZiI6MTc3MTk5MTg0MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjI1VDAzNTcyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5OWM3NDY5NTg0ZGE0MWQ1YjAxOTRlZGNiMzUyYjYxYWEwMWQ4N2ZiNGYzMjAyZTUwNTVlY2VjNDgyNTcwY2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.huGKRqnlTjE2eNxhO4_BhoFTJIA7w-1KWn7fd-qKsZ8)]
+<img src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.gif" width="100%" alt="MasterHead Banner"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=28&pause=1000&color=A29BFE&center=true&vCenter=true&width=700&height=60&lines=Hey+there%2C+I'm+Mohamed+Ishauq+%F0%9F%91%8B;Embedded+Systems+Engineer;Firmware+%26+Bare-Metal+Developer;IoT+%26+ARM+Cortex-M+Programmer;C+%2F+C%2B%2B+Systems+Developer" alt="Typing SVG" />
@@ -14,9 +15,11 @@
   <img src="https://komarev.com/ghpvc/?username=mdishauq&label=Profile%20Views&color=1a1a2e&style=for-the-badge" alt="mdishauq" />
 </p>
 
-<img allign = "right" alt="Coding" Width = "400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <h2 align="left">🧑‍💻 About Me</h2>
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 <p>
 I'm <strong>Mohamed Ishauq</strong>, an Electronics and Communication Engineering student with a deep passion for building systems that operate at the boundary of hardware and software. I specialize in <strong>bare-metal firmware development</strong> on ARM Cortex-M microcontrollers — writing register-level code, crafting device drivers from scratch, and engineering reliable embedded systems without hiding behind abstraction layers. For me, understanding <em>how</em> hardware actually works isn't just a skill, it's a philosophy.
@@ -33,6 +36,13 @@ Right now I'm actively working on my <strong>Absolute Bare Metal Series</strong>
 <blockquote>
 <em>"Technology should make life smarter, faster, and more meaningful — I'm driven to contribute to that future."</em>
 </blockquote>
+
+</td>
+<td valign="top" width="40%" align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
