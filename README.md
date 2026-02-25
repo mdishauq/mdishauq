@@ -22,15 +22,15 @@
 <td valign="top" width="60%">
 
 <p>
-I'm <strong>Mohamed Ishauq</strong>, an Electronics and Communication Engineering student with a deep passion for building systems that operate at the boundary of hardware and software. I specialize in <strong>bare-metal firmware development</strong> on ARM Cortex-M microcontrollers — writing register-level code, crafting device drivers from scratch, and engineering reliable embedded systems without hiding behind abstraction layers. For me, understanding <em>how</em> hardware actually works isn't just a skill, it's a philosophy.
+I'm <strong>Mohamed Ishauq</strong>, an ECE student and Embedded Systems Engineer specializing in <strong>bare-metal firmware development</strong> on ARM Cortex-M. Driven by a "hardware-first" philosophy, I focus on register-level programming and building device drivers from scratch—ensuring I understand exactly how the hardware operates beneath the abstraction layers.
 </p>
 
 <p>
-My journey has taken me from wiring up RC cars with Arduino and L293D motor drivers to building a <strong>lightweight version control system entirely in C++</strong> just to understand how Git works under the hood — that kind of curiosity drives everything I do. I completed an <strong>embedded systems internship at Revoh Innovations Pvt Ltd</strong>, earned a <strong>🥉 3rd place finish in the TANSAM Embedded Systems Hackathon</strong>, and hold certifications from Pantech Solutions, Infosys Springboard, and Udemy in embedded systems and high-performance C++.
+My journey in systems logic has led me from winning 3rd place in the <strong>TANSAM Embedded Systems Hackathon</strong> to building a custom <strong>C++ version control system</strong> from the ground up. Following an internship at <strong>Revoh Innovations</strong>, I’ve refined my ability to blend high-performance software with rigorous hardware constraints.
 </p>
 
 <p>
-Right now I'm actively working on my <strong>Absolute Bare Metal Series</strong> — a structured, register-level learning series covering STM32 from the ground up — alongside a <strong>GPS-guided autonomous car</strong> using ESP32, IMU, and encoder feedback. I'm expanding into <strong>RTOS concepts, IoT protocols, and edge computing</strong>, and I'm always open to collaborating on embedded systems, firmware, or IoT projects. If you want to talk about <strong>Embedded C, STM32, ESP32, UART/I2C/SPI, or bare-metal programming</strong> — I'm your person.
+Currently, I am authoring the <strong>Absolute Bare Metal Series</strong> for STM32 and engineering a GPS-guided autonomous car. I’m actively expanding into <strong>RTOS and Edge Computing</strong>, and I’m always open to collaborating on high-performance C++, STM32/ESP32 firmware, or complex IoT projects.
 </p>
 
 <blockquote>
