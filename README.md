@@ -47,7 +47,7 @@ Currently, I am authoring the <strong>Absolute Bare Metal Series</strong> for ST
 <br/>
 
 <table>
-<tr><td>🔭 <strong>Currently working on</strong></td><td>Absolute Bare Metal Series & GPS Autonomous Car</td></tr>
+<tr><td>🔭 <strong>Currently working on</strong></td><td>Absolute Bare Metal Series & Industrial-Doctor(An AI powered embedded device to predict machine faults )</td></tr>
 <tr><td>👥 <strong>Looking to collaborate on</strong></td><td>Embedded systems, firmware projects & IoT builds</td></tr>
 <tr><td>💛 <strong>Looking for help with</strong></td><td>RTOS concepts & Edge Computing</td></tr>
 <tr><td>🌱 <strong>Currently learning</strong></td><td>Bare-metal STM32, C++ systems programming & IoT protocols</td></tr>
@@ -140,31 +140,31 @@ Currently, I am authoring the <strong>Absolute Bare Metal Series</strong> for ST
 <td><strong>Multi-Mode RC Car</strong></td>
 <td>Bluetooth-controlled car with autonomous obstacle avoidance & voice command modes. Arduino + L293D motor shield + HC-06 + Ultrasonic sensor.</td>
 <td><code>C</code> <code>Arduino IDE</code> <code>Bluetooth</code></td>
-<td><a href="https://github.com/mdishauq">GitHub</a></td>
+<td><a href="https://mdishauq.github.io/portfolio/projects.html">GitHub</a></td>
 </tr>
 <tr>
-<td><strong>STM32 Bare Metal Programming</strong></td>
-<td>Pure register-level peripheral drivers on STM32 — no HAL, no CMSIS. Deep datasheet & reference manual driven development.</td>
-<td><code>C</code> <code>Keil µVision</code> <code>ST-Link</code></td>
-<td><a href="https://github.com/mdishauq">GitHub</a></td>
+<td><strong>Industrial-Doctor(An AI powered embedded device to predict machine faults</strong></td>
+<td>A standalone handheld device for non-contact predictive maintenance using Edge AI and Spectral Analysis.</td>
+<td><code>C</code> <code>EdgeImpulse</code> <code>ESP32 S3/INMP441 sensor</code></td>
+<td><a href="https://github.com/mdishauq/INDUSTRIAL-DOCTOR">GitHub</a></td>
 </tr>
 <tr>
 <td><strong>Absolute Bare Metal Series</strong></td>
 <td>Structured learning series documenting MCU programming from scratch. Every peripheral built from absolute first principles with zero abstraction.</td>
 <td><code>C</code> <code>STM32</code> <code>Keil</code></td>
-<td><a href="https://github.com/mdishauq">GitHub</a></td>
+<td><a href="https://mdishauq.github.io/portfolio/projects.html">GitHub</a></td>
 </tr>
 <tr>
 <td><strong>VERX – Mini Version Control System</strong></td>
 <td>Lightweight VCS built from scratch in C++ — local repos, ZIP-based push, embedded HTTP server for remote storage. Zero Git dependencies.</td>
 <td><code>C++</code> <code>miniz</code> <code>cpp-httplib</code> <code>libcurl</code></td>
-<td><a href="https://github.com/mdishauq">GitHub</a></td>
+<td><a href="https://mdishauq.github.io/portfolio/projects.html">GitHub</a></td>
 </tr>
 <tr>
 <td><strong>AI Study Assistant</strong></td>
 <td>Hybrid C++ & web app with high-performance backend for MCQ generation, progress tracking, and Google Gemini AI Q&A. Exposed via Node.js to a browser UI.</td>
 <td><code>C++11</code> <code>Gemini API</code> <code>Node.js</code> <code>Express</code> <code>Tailwind</code></td>
-<td><a href="https://github.com/mdishauq">GitHub</a></td>
+<td><a href="https://mdishauq.github.io/portfolio/projects.html">GitHub</a></td>
 </tr>
 </tbody>
 </table>
